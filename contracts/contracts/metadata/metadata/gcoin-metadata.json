@@ -1,0 +1,13 @@
+{
+  "name": "GCOIN",
+  "symbol": "GCOIN",
+  "description": "The official GCOIN token deployed on Binance Smart Chain. Used within Goopro.lv ecosystem.",
+  "decimals": 18,
+  "chainId": 56,
+  "address": "0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+  "website": "https://gcoin.se",
+  "telegram": "",
+  "twitter": "",
+  "logoURI": "https://raw.githubusercontent.com/whuiam/gcoin-token/main/logo/gcoin.png",
+  "tags": ["bep20", "gcoin", "goopro", "utility"]
+}
