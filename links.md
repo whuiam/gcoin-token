@@ -1,19 +1,19 @@
-# Official GCOIN Links
+# Oficiālās GCOIN saites
 
-### 🌐 Website  
+🔗 **Tīmekļa vietne**  
 https://gcoin.se
 
-### 🐙 GitHub  
+💻 **GitHub**  
 https://github.com/whuiam/gcoin-token
 
-### 📄 Token Contract  
-0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c
+📝 **Žetona līgums**  
+0x0a94656b2fe1c8f66eeeb45ea5d42854b52a86c
 
-### 🔄 PancakeSwap  
-https://pancakeswap.finance/swap?outputCurrency=0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c
+💱 **Pankūku maiņa (PancakeSwap)**  
+https://pancakeswap.finance/swap?outputCurrency=0x0a94656b2fe1c8f66eeeb45ea5d42854b52a86c
 
-### 🛡 Full Smart Contract Audit  
-./audit-full.md
+🛡️ **Pilns drošības audits**  
+[/audit/drosibas-audits.md](./audit/drosibas-audits.md)
 
-### 📘 Whitepaper  
-./whitepaper.md
+📘 **Tehniskā dokumentācija (Whitepaper)**  
+[/docs/whitepaper.md](./docs/whitepaper.md)
