@@ -1,0 +1,14 @@
+{
+  "symbol": "GCOIN",
+  "name": "GCOIN",
+  "description": "Official GCOIN Token on Binance Smart Chain. Community-driven, utility-focused, and part of the Goopro ecosystem.",
+  "decimals": 18,
+  "address": "0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+  "chainId": 56,
+  "logoURI": "https://raw.githubusercontent.com/whuiam/gcoin-token/main/logo/gcoin-logo.png",
+  "website": "https://gcoin.se",
+  "source": "https://github.com/whuiam/gcoin-token",
+  "mintable": true,
+  "owner": "owner-controlled",
+  "audit": "basic security audit included"
+}
