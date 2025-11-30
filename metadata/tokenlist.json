@@ -1,15 +1,16 @@
 {
   "name": "GCOIN Token List",
-  "logoURI": "https://raw.githubusercontent.com/whuiam/gcoin-token/main/website/gcoin-logo.png",
+  "logoURI": "https://whuiam.github.io/gcoin-token/website/logo/gcoin-256.png",
+  "keywords": ["gcoin", "utility", "ecosystem"],
   "timestamp": "2025-01-01T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 56,
-      "address": "0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
-      "name": "GCOIN",
+      "address": "0x0a94656b2fe1c8f66eEBeB45Ea5D42854b52A86C",
       "symbol": "GCOIN",
+      "name": "GCOIN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/whuiam/gcoin-token/main/website/gcoin-logo.png"
+      "logoURI": "https://whuiam.github.io/gcoin-token/website/logo/gcoin-128.png"
     }
   ]
 }
