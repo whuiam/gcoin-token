@@ -1,0 +1,12 @@
+{
+  "name": "GCOIN",
+  "symbol": "GCOIN",
+  "decimals": 18,
+  "description": "Official GCOIN BEP-20 Token on Binance Smart Chain. Supply: 66 000 000. VIP membership system.",
+  "website": "https://gcoin.se",
+  "explorer": "https://bscscan.com/token/0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+  "logo": "assets/logo.png",
+  "id": "0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+  "status": "active",
+  "type": "BEP20"
+}
