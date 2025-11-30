@@ -1,11 +1,11 @@
 {
   "name": "GCOIN",
   "symbol": "GCOIN",
-  "type": "BEP20",
+  "description": "Steadiest in Your Life — Official GCOIN Token on BSC.",
+  "contractAddress": "0x0a94656b2Fe1c8f66eEBeB45Ea5D42854b52A86C",
   "decimals": 18,
-  "description": "GCOIN — stabilākais tavā dzīvē. Moderns digitālās ekonomikas tokens, kas atspoguļo drošību, stabilitāti un nākotnes potenciālu.",
-  "website": "https://gcoin.se",
-  "github": "https://github.com/whuiam/gcoin-token",
-  "telegram": "https://t.me/gcoincommunity",
-  "logo": "https://whuiam.github.io/gcoin-token/website/logo/gcoin-256.png"
+  "logoURI": "https://raw.githubusercontent.com/whuiam/gcoin-token/main/metadata/gcoin-logo.png",
+  "tags": ["utility", "bep20", "gcoin"],
+  "homepage": "https://gcoin.se"
 }
+
