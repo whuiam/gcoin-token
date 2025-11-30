@@ -1,9 +1,24 @@
 {
-    "symbol": "GCOIN",
-    "name": "GCOIN",
-    "description": "Official GCOIN Token on BSC.",
-    "decimals": 18,
-    "address": "0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
-    "chainId": 56,
-    "mintable": true
+  "name": "GCOIN",
+  "symbol": "GCOIN",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "GCOIN is a BEP-20 token on Binance Smart Chain focused on transparency, fairness, and long-term ecosystem growth.",
+  "website": "https://gcoin.se",
+  "explorer": "https://bscscan.com/token/0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+  "status": "active",
+  "id": "gcoin",
+  "links": {
+    "github": "https://github.com/whuiam/gcoin-token",
+    "website": "https://gcoin.se",
+    "pancakeswap": "https://pancakeswap.finance/swap?outputCurrency=0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+    "bscscan": "https://bscscan.com/token/0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c"
+  },
+  "tags": [
+    "bep20",
+    "token",
+    "gcoin",
+    "utility",
+    "ecosystem"
+  ]
 }
