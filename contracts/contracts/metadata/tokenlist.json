@@ -1,0 +1,20 @@
+{
+  "name": "GCOIN Token List",
+  "logoURI": "",
+  "keywords": ["gcoin", "bep20", "goopro"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+      "symbol": "GCOIN",
+      "name": "GCOIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/whuiam/gcoin-token/main/logo/gcoin.png"
+    }
+  ]
+}
