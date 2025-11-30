@@ -1,0 +1,9 @@
+{
+    "symbol": "GCOIN",
+    "name": "GCOIN",
+    "description": "Official GCOIN Token on BSC.",
+    "decimals": 18,
+    "address": "0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+    "chainId": 56,
+    "mintable": true
+}

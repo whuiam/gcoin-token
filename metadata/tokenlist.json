@@ -1,0 +1,13 @@
+{
+    "name": "GCOIN Token List",
+    "tokens": [
+        {
+            "chainId": 56,
+            "address": "0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+            "symbol": "GCOIN",
+            "name": "GCOIN",
+            "decimals": 18,
+            "logoURI": "logo/gcoin-logo.png"
+        }
+    ]
+}
