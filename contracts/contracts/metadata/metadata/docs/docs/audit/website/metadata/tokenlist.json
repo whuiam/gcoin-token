@@ -1,0 +1,14 @@
+{
+  "name": "GCOIN Token List",
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x0a94656b2fe1c8f66eebeb45ea5d42854b52a86c",
+      "symbol": "GCOIN",
+      "name": "GCOIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/whuiam/gcoin-token/main/logo/gcoin-logo.png"
+    }
+  ]
+}
