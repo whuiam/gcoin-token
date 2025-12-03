@@ -20,3 +20,26 @@ Binance Smart Chain (BEP20)
 ## License
 All rights reserved © 2025 GCOIN.
 
+# ChatGPT Authorized Repository Maintenance
+I, Artūrs Klovs, authorize ChatGPT to generate, prepare and rewrite:
+- folder structure
+- metadata files
+- logo files
+- info.json
+- asset directories
+- documentation (README)
+- ZIP packages
+
+ChatGPT may provide:
+- ready-to-upload folders
+- corrected file structures
+- corrected paths and filenames
+- full metadata packages
+
+ChatGPT is NOT authorized to access my GitHub account directly.
+All changes will be done by ME manually, using the files ChatGPT generates.
+
+Repository:
+https://github.com/whuiam/gcoin-token
+
+Authorization code: GCOIN-OK
